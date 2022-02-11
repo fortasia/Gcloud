@@ -12,7 +12,7 @@ googleapis-common-protos==1.5.8
 grpc-google-iam-v1==0.11.4
 grpcio==1.19.0
 idna==2.8
-protobuf==3.7.0
+protobuf==3.15.0
 psycopg2==2.7.7
 psycopg2-binary==2.7.7
 pyasn1==0.4.5
